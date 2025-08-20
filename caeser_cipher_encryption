@@ -2,7 +2,7 @@
 def Caesar_cipher_encryption(plaintext,key_value):
 	result = ""
 
-	return resultra
+	return result
 ###
 
 # function: decryption
