@@ -1,0 +1,19 @@
+# function: encryption
+def Caesar_cipher_encryption(plaintext,key_value):
+	result = ""
+
+	return resultra
+###
+
+# function: decryption
+def Caesar_cipher_decryption(plaintext,key_value):
+	result = ""
+
+	return result
+###
+
+# function: decrypt ciphertext with all keys (to guess corret plaintexts)
+
+###
+
+print("Professor: ", "Name")
